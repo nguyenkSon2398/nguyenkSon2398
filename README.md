@@ -2,7 +2,7 @@
 #### C++ Software Developer
 ![C++ Software Developer](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_houston-downtown-1/standard.png?1548464073)
 
-I am a recent college graduate at University of Houston-Downtown. I am currently looking for a job and practicing coding in the meantime.
+I am a recent college graduate at University of Houston-Downtown. I am currently looking for a job and practicing coding in the meantime. My other small projects will be listed in my organization titled knguyenpersonalprojects.
 
 Skills: C++/Python/Qt
 
