@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Kevin Nguyen
+#### C++ Software Developer
+![C++ Software Developer](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_houston-downtown-1/standard.png?1548464073)
 
-<!--
-**nguyenkSon2398/nguyenkSon2398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent college graduate at University of Houston-Downtown. I am currently looking for a job and practicing coding in the meantime.
 
-Here are some ideas to get you started:
+Skills: C++/Python/Qt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Hospital Database 
+- 🌱 I’m currently learning Qt 
+- 📫 How to reach me: kevinnguyen2398@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nguyenkSon2398)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenkSon2398&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/nguyenkSon2398)  
