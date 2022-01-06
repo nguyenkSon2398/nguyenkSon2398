@@ -2,12 +2,12 @@
 #### C++ Software Developer
 ![C++ Software Developer](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_houston-downtown-1/standard.png?1548464073)
 
-I am a recent college graduate at University of Houston-Downtown. I am currently looking for a job and practicing coding in the meantime. My other small projects will be listed in my organization titled knguyenpersonalprojects.
+I am a recent college graduate at University of Houston-Downtown. I am currently looking for a job and practicing coding in the meantime. My other small projects will be listed in my organization titled knguyenpersonalprojects. https://github.com/orgs/knguyenpersonalprojects/
 
 Skills: C++/Python/Qt
 
 - 🔭 I’m currently working on Hospital Database 
-- 🌱 I’m currently learning Qt 
+- 🌱 I'm currently learning Java
 - 📫 How to reach me: kevinnguyen2398@gmail.com 
 
 
