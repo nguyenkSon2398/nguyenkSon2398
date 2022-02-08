@@ -6,8 +6,8 @@ I am a recent college graduate at University of Houston-Downtown. I am currently
 
 Skills: C++/Python/Qt
 
-- 🔭 I’m currently working on Hospital Database 
-- 🌱 I'm currently learning Java
+- 🔭 I’m currently working on my Personal Website
+- 🌱 I'm currently learning Javascript
 - 📫 How to reach me: kevinnguyen2398@gmail.com 
 
 
